@@ -121,8 +121,8 @@ sections:
     subtitle: Meet the team
     actions: []
     people:
-      - content/data/team/desmond-eagle.json
       - content/data/team/dianne-ameter.json
+      - content/data/team/desmond-eagle.json
       - content/data/team/hilary-ouse.json
     styles:
       self:
